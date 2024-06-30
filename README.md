@@ -6,5 +6,5 @@ This is just simple project made in java for practise, to make todo app without 
 * Delete tasks
 * Mark them as checked/unchecked
 
-#Opening file
+# Opening file
 to test file, you need to download latest relase of the file, and open it in terminal with prefixes java -jar
